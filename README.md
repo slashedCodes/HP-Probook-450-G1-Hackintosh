@@ -1,3 +1,5 @@
+![image](https://github.com/slashedCodes/HP-Probook-450-G1-Hackintosh/assets/76942911/687a2279-abdd-41b8-8a3b-472c2c0861aa)
+
 # HP Probook 450 G1 Hackintosh
 
 This repo contains the EFI Folder for [OpenCore 1.0.0](https://github.com/acidanthera/OpenCorePkg/releases/tag/1.0.0) for the [HP Probook 450 G1](https://support.hp.com/vn-en/document/c03963187).
