@@ -28,10 +28,10 @@ If you've found that this EFI folder works with Catalina or Monterey for example
 | Graphics         | [WhateverGreen](https://github.com/acidanthera/WhateverGreen/releases)                                                                        |
 | Audio            | [AppleALC](https://github.com/acidanthera/AppleALC/releases)                                                                                  |
 | Ethernet         | [RealtekRTL8111](https://github.com/Mieze/RTL8111_driver_for_OS_X/releases)                                                                   |
-| Wifi             | [High Sierra's IO80211Family](https://github.com/khronokernel/IO80211-Patches/blob/main/10.13.6-High-Sierra-Kexts/IO80211HighSierra.kext.zip) |
 | Input            | [VoodooPS2](https://github.com/acidanthera/VoodooPS2/releases)                                                                                |
 | Battery Readouts | [ECEnabler](https://github.com/1Revenger1/ECEnabler/releases)                                                                                 |
 | Brightness Keys  | [BrightnessKeys](https://github.com/acidanthera/BrightnessKeys/releases)                                                                      |
 
 # Issues
  - CMOS Reset bullshit. I aint fixing that
+ - Wifi doesn't work - no driver.
